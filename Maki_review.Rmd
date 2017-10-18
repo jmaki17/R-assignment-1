@@ -1,0 +1,13 @@
+---
+title: "Maki Review"
+author: "JMaki"
+date: "October 17, 2017"
+output: html_document
+---
+-It's nice that you included a step at the beginning where you loaded all the packages needed for the assignment. However, it doesn't include a step where you install the package if the person pulling the repository doesn't have the packages already installed
+
+-Unfortunately, you didn't include the Fang et al and snp datasets into the pulled repository, so I was unable to read in the tables and needed to manually move the files into the working directory. Once I imported the datasets however, I was able to run all the code. The code seemed human readable. 
+
+-I think there was supposed to be a third graph of your choice and it doesn't seem as though you included it. 
+
+-The only improvements I could suggest are to include a script that automatically downloads the necessary packages if they were not already installed. It would also be nice if the 2 datasets were included in the pulled repository so the user didn't have to manually load them themself. 
